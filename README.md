@@ -20,7 +20,7 @@
 
 ---
 
-## Antony is;
+## I am;
 
 A **Computer Scientist** trained through the **Cyber Shujaa Program** where I discovered my passion for blending security, intelligence, and engineering. I love creating solutions that actually work in the real world - no over-engineering, just simple, logic, and practical results.
 
