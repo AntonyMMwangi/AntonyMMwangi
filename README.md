@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where I discovered my passion for blending security, intelligence, and engineering. I love creating solutions that work in the real world—no over-engineering, just simple, logical, and practical results.
+I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where I discovered my passion for blending security, intelligence, and engineering. I love creating ssolutions that work in the real world—no over-engineering, just simple, logical, and practical results.
 
 * 🔐 **When I'm not coding** - I explore security vulnerabilities and threat landscapes
 * 📊 **Data interests me** - I turn raw numbers into clear insights
