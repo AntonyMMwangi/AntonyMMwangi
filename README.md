@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Antony+Mwangi+👋;Software+Engineer;Data+%26+AI+Analyst;Ethical+Hacker;" alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Antony+Mwangi;Software+Engineer;Data+%26+AI+Analyst;Ethical+Hacker;" alt="Animated typing introduction" />
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ---
 
-## 🎯 About Me
+## Antony is;
 
-Hey there! I'm Antony, a **Computer Scientist** trained through the **Cyber Shujaa Program** where I discovered my passion for blending security, intelligence, and engineering. I love creating solutions that actually work in the real world - no over-engineering, just practical results.
+A **Computer Scientist** trained through the **Cyber Shujaa Program** where I discovered my passion for blending security, intelligence, and engineering. I love creating solutions that actually work in the real world - no over-engineering, just simple, logic, and practical results.
 
 * 🔐 **When I'm not coding** - you'll find me exploring security vulnerabilities and threat landscapes
 * 📊 **Data fascinates me** - turning raw numbers into meaningful insights is like solving puzzles
@@ -24,11 +24,9 @@ Hey there! I'm Antony, a **Computer Scientist** trained through the **Cyber Shuj
 * 🌱 **Currently growing** - advancing my full-stack skills at eMobilis
 * 🎯 **My mission** - contributing to Africa's digital growth with secure, smart solutions
 
----
+## My Toolkit
 
-## 🛠️ My Toolkit
-
-### 🔒 Security & Data Magic
+### Security & Data Magic
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -37,7 +35,7 @@ Hey there! I'm Antony, a **Computer Scientist** trained through the **Cyber Shuj
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 💻 Development & DevOps
+### Development & DevOps
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -45,8 +43,6 @@ Hey there! I'm Antony, a **Computer Scientist** trained through the **Cyber Shuj
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
 
 ## 💼 What I Enjoy Building
 
@@ -56,8 +52,6 @@ Hey there! I'm Antony, a **Computer Scientist** trained through the **Cyber Shuj
 | **📈 Data & AI** | Creating pipelines that turn data into decisions |
 | **🌐 Full-Stack** | Building applications that people actually use |
 | **⚙️ DevOps** | Making deployment smooth and reliable |
-
----
 
 ## 📊 My GitHub Journey
 
@@ -74,8 +68,6 @@ Hey there! I'm Antony, a **Computer Scientist** trained through the **Cyber Shuj
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Antony-Mwangi&theme=vue-dark&hide_border=true&bg_color=45,667eea,764ba2&color=ffffff&line=ffffff&point=ffffff" alt="Activity graph" />
 
 </div>
-
----
 
 ## 📞 Let's Chat!
 
@@ -94,7 +86,6 @@ Hey there! I'm Antony, a **Computer Scientist** trained through the **Cyber Shuj
   </a>
 </p>
 
----
 
 <div align="center">
 
