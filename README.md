@@ -1,14 +1,14 @@
 <div align="center">
 
-# Antony Mwangi's Portfolio
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Antony+MWangi's+Portfolio&fontSize=50&animation=fadeIn)
 
-**Software Engineer | Data & AI Analyst | Ethical Hacker**
-
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=60&animation=fadeIn)
-
-</div><p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Antony+Mwangi;Software+Engineer;Data+%26+AI+Analyst;Ethical+Hacker;" alt="Animated typing introduction" />
 </p>
+
+**Building secure and reliable data-driven systems**
+
+</div>
 
 <p align="center">
   <i>A computer scientist building secure and reliable data-driven systems.</i>
