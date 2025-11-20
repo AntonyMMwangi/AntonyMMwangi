@@ -14,6 +14,10 @@
 
 I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where I discovered my passion for blending security, intelligence, and engineering. I love creating solutions that work in the real world—no over-engineering, just simple, logical, and practical results.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation">
+</div>
+
 * **When I'm not coding** - I explore security vulnerabilities and threat landscapes
 * **Data interests me** - I turn raw numbers into clear insights
 * **Developing solutions** - From simple scripts to full-stack applications
@@ -88,6 +92,8 @@ I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where
 **Feel free to explore my work and don't hesitate to reach out!**
 
 ![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+![Coding](https://raw.githubusercontent.com/ABHI-1920/ABHI-1920/main/coding-freak.gif)
 
 Code. Think. Govern.
 
