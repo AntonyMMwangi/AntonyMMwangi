@@ -90,7 +90,7 @@ A **Computer Scientist** trained through the **Cyber Shujaa Program** where I di
 
 ###  "Code. Think. Govern."
 
-⭐️ **Feel free to explore my work and don't hesitate to reach out!**
+**Feel free to explore my work and don't hesitate to reach out!**
 
 ![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
