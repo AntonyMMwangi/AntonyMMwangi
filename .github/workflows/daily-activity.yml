@@ -1,0 +1,24 @@
+name: Daily Activity Bot
+on:
+  schedule:
+    - cron: '0 12 * * *'  # Runs daily at 12 PM UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Update activity file
+        run: |
+          echo "Last active: $(date -u)" > last_active.txt
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "📅 Daily activity: $(date -u)" || exit 0
+          git push
