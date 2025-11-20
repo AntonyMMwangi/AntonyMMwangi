@@ -16,22 +16,25 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation">
 </div>
 
-## About Me
+## 🚀 About Me
 
 I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where I discovered my passion for blending security, intelligence, and engineering. I love creating solutions that work in the real world—no over-engineering, just simple, logical, and practical results.
 
 <div align="center">
 
 ### 🎯 Quick Facts
-💻 When I'm not coding: Exploring security vulnerabilities
-📊 Data interests me: Turning raw numbers into clear insights
-🚀 Developing solutions: From scripts to full-stack applications
-🌱 Currently growing: Full-stack skills at eMobilis
-🎯 My mission: Building Africa, Leading Africa, For Africans
+
+| Aspect | Focus |
+|--------|-------|
+| **💻 When I'm not coding** | Exploring security vulnerabilities and threat landscapes |
+| **📊 Data interests me** | Turning raw numbers into clear insights |
+| **🚀 Developing solutions** | From simple scripts to full-stack applications |
+| **🌱 Currently growing** | My full-stack skills at eMobilis |
+| **🎯 My mission** | Building Africa, Leading Africa, For Africans |
 
 </div>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
