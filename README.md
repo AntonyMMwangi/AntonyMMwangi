@@ -6,13 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Antony+Mwangi;Software+Engineer;Data+%26+AI+Analyst;Ethical+Hacker" alt="Animated typing introduction" />
 </p>
 
-**Welcome to my GitHub profile! Great to have you here.**
-
 </div>
 
----
-
-## 👨‍💻 About Me
+## About Me
 
 I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where I discovered my passion for blending security, intelligence, and engineering. I love creating solutions that work in the real world—no over-engineering, just simple, logical, and practical results.
 
@@ -22,9 +18,7 @@ I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where
 * 🌱 **Currently growing** - My full-stack skills at eMobilis
 * 🎯 **My mission** - Building Africa, Leading Africa, For Africans
 
----
-
-## 🛠️ My Toolkit
+## My Toolkit
 
 ### Security & Data
 <p align="center">
@@ -44,9 +38,7 @@ I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-## 💼 What I Do
+## What I Do
 
 | Area | Focus |
 |------|-------|
@@ -55,9 +47,7 @@ I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where
 | **🌐 Full-Stack** | Building applications that people actually use |
 | **⚙️ DevOps** | Making deployment smooth and reliable |
 
----
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -73,9 +63,7 @@ I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where
 
 </div>
 
----
-
-## 📞 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="mailto:info.csmwangi@gmail.com">
@@ -92,14 +80,13 @@ I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where
   </a>
 </p>
 
----
 
 <div align="center">
 
-### "Code. Think. Govern."
-
-⭐️ **Feel free to explore my work and don't hesitate to reach out!**
+**Feel free to explore my work and don't hesitate to reach out!**
 
 ![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+Code. Think. Govern.
 
 </div>
