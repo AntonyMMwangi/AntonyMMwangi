@@ -13,37 +13,33 @@ I am a Computer Scientist trained through the Cyber Shujaa Program, where I disc
 MY TOOLKIT
 
 Security and Data
-
-* Vulnerability assessment
-* Threat analysis
-* Data analytics
-* Intelligence-driven automation
+- Vulnerability assessment
+- Threat analysis
+- Data analytics
+- Intelligence-driven automation
 
 Development and DevOps
-
-* Full-stack development
-* API and system integration
-* CI/CD and deployment automation
-* System reliability and scalability
+- Full-stack development
+- API and system integration
+- CI/CD and deployment automation
+- System reliability and scalability
 
 WHAT I ENJOY BUILDING
 
-| Area          | What I Focus On                                               |
-| ------------- | ------------------------------------------------------------- |
+| Area | What I Focus On |
+|------|------------------------------------------------------------|
 | Cybersecurity | Keeping systems secure through smart architecture and testing |
-| Data & AI     | Turning data into decisions through clean pipelines           |
-| Full-Stack    | Building applications people actually use                     |
-| DevOps        | Making deployment smooth and reliable                         |
+| Data & AI | Turning data into decisions through clean pipelines |
+| Full-Stack | Building applications people actually use |
+| DevOps | Making deployment smooth and reliable |
 
 MY GITHUB JOURNEY
-
-* Coding streak
-* GitHub stats
-* Top languages
-* Activity graph
+- Coding streak
+- GitHub stats
+- Top languages
+- Activity graph
 
 Email | LinkedIn | Twitter | GitHub
 
 CODE. THINK. GOVERN.
-
-
+```
