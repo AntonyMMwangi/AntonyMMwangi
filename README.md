@@ -10,12 +10,11 @@
 
 ## About Me
 
-I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where I discovered my passion for blending security, intelligence, and engineering. I love creating ssolutions that work in the real world—no over-engineering, just simple, logical, and practical results.
+I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where I discovered my passion for blending security, intelligence, and engineering. I love creating solutions that work in the real world—no over-engineering, just simple, logical, and practical results.
 
 <p align="center">
-  <img src="assets/developer_image.png" alt="Developer illustration" width="600">
+  <img src="https://raw.githubusercontent.com/Antony-Mwangi/Antony-Mwangi/main/assets/developer_image.png" alt="Developer illustration" width="600">
 </p>
-
 
 * **When I'm not coding** - I explore security vulnerabilities and threat landscapes
 * **Data interests me** - I turn raw numbers into clear insights
