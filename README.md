@@ -42,10 +42,6 @@ I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where
 
 ## What I Do
 
-<div align="center">
-![GitHub Streak](https://streak-stats.demolab.com/?user=Antony-Mwangi&theme=vue-dark)
-</div>
-
 | Area | Focus |
 |------|-------|
 | **🔐 Cybersecurity** | Keeping systems safe through smart architecture and testing |
@@ -55,7 +51,7 @@ I'm a **Computer Scientist** trained through the **Cyber Shujaa Program**, where
 
 ## GitHub Analytics
 
-<div align="center">
+![GitHub Streak](https://streak-stats.demolab.com/?user=Antony-Mwangi&theme=vue-dark)
 
 <!-- Streak Stats -->
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Antony-Mwangi&theme=vue-dark&hide_border=true&background=45,667eea,764ba2" alt="Coding streak" />
