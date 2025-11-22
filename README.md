@@ -5,7 +5,7 @@
 <p align="center">
   <strong style="font-size: 28px; font-family: 'Fira Code', monospace; color: #32CD32;">Hi, I'm Antony Mwangi</strong>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&height=40&lines=Software+Engineer;Data+%26+AI+Analyst;Ethical+Hacker;Economist+in+Making" alt="Animated typing roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Software+Engineer;Data+%26+AI+Analyst;Penetration+Tester;IT+Consultant" alt="Animated typing roles" />
 </p>
 
 </div>
